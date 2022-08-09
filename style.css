@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+.first-h1{ font-size: 50px;
+    font-weight: 700 ;
+    font-family: 'Montserrat';
+    font-style: italic;
+    text-align: center;
+    background-color: antiquewhite;
+    color: #fe6d73;
+}
+.first-h2{
+    font-size: 40px;
+    font-weight: 400 ;
+    font-family: 'Montserrat';
+    font-style: italic;
+    text-align: center;
+    background-color: antiquewhite;
+    color: #fe6d73;
+}
+.second-h1{
+    font-size: 40px;
+    font-weight: 700 ;
+    font-family: 'Montserrat';
+    font-style: italic;
+    text-align: center;
+    background-color: antiquewhite;
+    color: #fe6d73;
+}
+.third-h1{
+    font-size: 40px;
+    font-weight: 700 ;
+    font-family: 'Montserrat';
+    font-style: italic;
+    text-align: center;
+    background-color: antiquewhite;
+    color: #fe6d73;
+}
+.last-h1{
+    font-size:40px;
+    font-weight: 700 ;
+    font-family: 'Montserrat';
+    font-style: italic;
+    text-align: center;
+    background-color: antiquewhite; 
+    color: #fe6d73;
+}
+body{
+background-color: aliceblue;
+background-image: url( ./apple23.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+}
+.image{
+    border-radius: 40px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: antiquewhite;
+    width: 30%;
+}
+.first-p{
+    font-size: 30px;
+    font-weight: 300 ;
+    font-family: 'Montserrat';
+    font-style:solid;
+    text-align: left;
+   color: #ae2012;
+}
+.second-p{
+    font-size: 30px
+    font-weight: 300 ;
+    font-family: 'Montserrat';
+    font-style:solid;
+    text-align: left;
+   color: #ae2012;
+}
+.p-story{
+    font-size: 30px;
+    font-weight: 300 ;
+    font-family: 'Montserrat';
+    font-style:solid;
+    text-align: left;
+   color: #ae2012;ss
+}
+#first-h3{
+    font-size: 40px;
+    font-weight: 7sss00 ;
+    font-family: 'Montserrat';
+    font-style:italic;
+    text-align: center;
+   color: #ae2012;
+}
+.link1{
+    font-size: 20px;
+    font-style: italic;
+}
